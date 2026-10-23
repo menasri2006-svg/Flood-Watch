@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+backend/data/jobs/*
+!backend/data/jobs/.gitkeep
+.env
